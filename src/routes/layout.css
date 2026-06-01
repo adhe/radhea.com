@@ -3,5 +3,30 @@
 @theme {
   --breakpoint-*: initial;
   --breakpoint-tablet: 40rem;
-  --breakpoint-desktop: 80rem;
+  --breakpoint-desktop: 55rem;
+  --font-avio: Avio Sans, sans-serif;
+}
+
+@font-face {
+  font-family: Avio Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("$lib/assets/fonts/AvioSans-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Avio Sans;
+  font-style: medium;
+  font-weight: 600;
+  font-display: swap;
+  src: url("$lib/assets/fonts/AvioSans-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Avio Sans;
+  font-style: semibold;
+  font-weight: 700;
+  font-display: swap;
+  src: url("$lib/assets/fonts/AvioSans-SemiBold.woff2") format("woff2");
 }

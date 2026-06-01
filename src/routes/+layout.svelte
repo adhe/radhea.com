@@ -6,6 +6,6 @@
 </script>
 
 <svelte:head><link rel="icon" href={favicon} /></svelte:head>
-<div class="bg-red-100 container">
+<div class="container mx-auto font-avio">
   {@render children()}
 </div>
