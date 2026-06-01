@@ -1,0 +1,2 @@
+assets.directory = ".cloudflare/public"
+assets.binding = "ASSETS"
