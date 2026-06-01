@@ -1,2 +1,5 @@
+name = "radhea-com"
+main = ".svelte-kit/cloudflare/_worker.js"
+compatibility_date = "2026-06-01"
 assets.directory = ".cloudflare/public"
 assets.binding = "ASSETS"
