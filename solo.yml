@@ -1,0 +1,10 @@
+name: radhea.com
+icon: null
+processes:
+  dev:
+    command: bun run dev
+    working_dir: null
+    auto_start: true
+    auto_restart: true
+    restart_when_changed: []
+    env: {}

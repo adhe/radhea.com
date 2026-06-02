@@ -1,7 +1,12 @@
 import adapter from '@sveltejs/adapter-cloudflare';
+import { mdsx } from 'mdsx'
+import { mdsxConfig } from './mdsx.config.js'
+import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
+  preprocess: [mdsx(mdsxConfig), vitePreprocess()],
+  extensions: ['.svelte', '.md'],
   compilerOptions: {
     // Force runes mode for the project, except for libraries. Can be removed in svelte 6.
     runes: ({ filename }) => (filename.split(/[/\\]/).includes('node_modules') ? undefined : true)

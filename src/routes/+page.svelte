@@ -1,3 +1,8 @@
+<script lang="ts">
+  import type { PageData } from './$types';
+  let { data }: { data: PageData } = $props();
+</script>
+
 <div class="min-h-screen p-3 desktop:p-0 flex flex-col">
   <div class="h-[62vh] flex flex-col justify-between tablet:pt-8">
     <div>
@@ -26,62 +31,40 @@
       </p>
       <p>Design is my craft. Building is my advantage.</p>
     </div>
-    <div class="font-medium tracking-tight text-[13px] tablet:text-[15px] mb-5">
+    <div class="font-semibold text-[13px] tablet:text-[14px] mb-5">
       Selected work
     </div>
   </div>
   <div class="grid tablet:grid-cols-2 gap-5 desktop:gap-y-8">
-    {#each Array(5) as _}
+    {#each data.posts as post}
       <div class="desktop:min-h-[30vh]">
-        <div
-          class="bg-gray-100 h-55 tablet:h-45 desktop:h-60 mb-3 flex items-center justify-center text-gray-400/75 text-sm rounded-lg tablet:rounded-xl"
-        >
-          Image
-        </div>
+        <a href="/{post.slug}">
+          {#if post.image}
+            <img
+              src={post.image}
+              alt={post.title}
+              class="h-55 tablet:h-45 desktop:h-60 w-full object-cover mb-3 rounded-lg tablet:rounded-xl"
+            />
+          {:else}
+            <div
+              class="bg-gray-100 h-55 tablet:h-45 desktop:h-60 mb-3 flex items-center justify-center text-gray-400/75 text-sm rounded-lg tablet:rounded-xl"
+            >
+              Image
+            </div>
+          {/if}
+        </a>
         <div
           class="desktop:text-[17px] leading-tight tracking-tight font-medium"
         >
-          Institut Teknologi Sepuluh Nopember
+          <a href="/{post.slug}">{post.title ?? post.slug}</a>
         </div>
         <div class="text-[12px] desktop:text-[13px] text-[#444444]/90">
-          Top biggest university in Indonesia
+          {post.description ?? ''}
         </div>
         <div class="text-[11px] desktop:text-[12px] text-[#929292]">
-          Website
+          {post.tags ?? ''}
         </div>
       </div>
     {/each}
-  </div>
-</div>
-<div
-  class="min-h-[25vh] desktop:min-h-[20vh] mt-10 desktop:mt-20 px-3 desktop:px-0 pt-4 pb-8 flex flex-col justify-between"
->
-  <div
-    class="font-medium text-[32px] mb-8 tablet:mb-0 leading-tight tablet:text-[40px] tracking-tighter text-balance"
-  >
-    Good design is a decision. <a
-      href="mailto:contact@radhea.com"
-      class="underline">Let's talk</a
-    >.
-  </div>
-  <div class="tablet:flex tablet:justify-between">
-    <div
-      class="text-[15px] text-[#444444] font-medium tracking-tight mb-8 tablet:mb-0 text-balance"
-    >
-      I’m also at <a href="https://x.com/adhecson" class="underline"
-        >X (Twitter)</a
-      >,
-      <a href="https://www.linkedin.com/in/radheawicaksono/" class="underline"
-        >LinkedIn</a
-      >,
-      <a href="https://instagram.com/adhecson" class="underline">Instagram</a>,
-      and
-      <a href="https://youtube.com/@adhecson" class="underline">YouTube</a>.
-    </div>
-    <div
-      class="text-[13px] text-[#B2B2B2] tablet:text-[14px] font-medium tablet:font-normal"
-    >
-      Radhea Putra © 2026.
-    </div>
   </div>
 </div>
