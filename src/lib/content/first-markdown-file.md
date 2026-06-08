@@ -1,5 +1,5 @@
 ---
-title: First Markdown File
+title: Lucidity Insights
 description: First MD load file on radhea.com
 image:
 tags: Website
