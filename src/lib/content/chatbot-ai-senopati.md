@@ -1,13 +1,15 @@
 ---
 title: Chatbot AI
-type: UI/UX Design, Product Design  
+heading: Automate website customer service with Chatbot AI
 client: Universitas Airlangga (UNAIR) & Institut Teknologi Sepuluh Nopember (ITS)  
+type: UI/UX Design, Product Design  
 period: 2024–2025  
 image:
 tags: UI/UX, AI, product, dev
+order: 4
 ---
 
-# Heading title for Chatbot AI
+# {heading}
 
 `/images/chatbot-ai-featured.jpg`
 
@@ -19,11 +21,7 @@ Beyond the chat interface, the project included a web crawling dashboard for adm
 
 `/images/chatbot-ai-detail.jpg`
 
-## Result
-
 Senopati is now live at UNAIR, embedded via a WordPress plugin across the university's web properties. The system handles real user queries daily, reducing the load on administrative staff for repetitive information requests. The project stands as one of the most technically complex products delivered — combining AI infrastructure, UX design, and institutional knowledge management into a single deployable product.
 
----
-
-**Client:** Universitas Airlangga & Institut Teknologi Sepuluh Nopember, Surabaya  
-**Period:** 2024–2025
+**Client:** {client}  
+**Period:** {period}

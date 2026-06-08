@@ -1,18 +1,17 @@
-# Institut Teknologi Sepuluh Nopember
-
-**Type:** UI/UX Design, Web Design, Development  
-**Client:** Institut Teknologi Sepuluh Nopember (ITS Surabaya)  
-**Period:** 2024–2025  
-**Tags:** website, UI/UX, dev, design system
-
+---
+title: Institut Teknologi Sepuluh Nopember
+heading: University website that modern visually
+client: Institut Teknologi Sepuluh Nopember (ITS Surabaya)  
+type: UI/UX Design, Web Design, Development  
+period: 2025-2026
+image:
+tags: website, UI/UX, dev, design system
+order: 2
 ---
 
-## Featured Image
+# {heading}
+
 `/images/its-featured.jpg`
-
----
-
-## Overview
 
 Institut Teknologi Sepuluh Nopember is one of Indonesia's leading technical universities, ranked among the top institutions nationally. The project was a full redesign of the university's main website — replacing a fragmented, aging system with a modern, scalable digital presence befitting an institution of ITS's standing.
 

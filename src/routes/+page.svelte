@@ -1,6 +1,9 @@
 <script lang="ts">
   import type { PageData } from "./$types";
   let { data }: { data: PageData } = $props();
+  let posts = $derived(
+    data.posts.sort((a, b) => (a.order ?? 0) - (b.order ?? 0)),
+  );
 </script>
 
 <div class="h-[62vh] flex flex-col justify-between tablet:pt-32">
@@ -27,7 +30,7 @@
   </div>
 </div>
 <div class="grid tablet:grid-cols-2 gap-5 desktop:gap-y-8">
-  {#each data.posts as post}
+  {#each posts as post}
     <div class="desktop:min-h-[30vh]">
       <a href="/{post.slug}">
         {#if post.image}
