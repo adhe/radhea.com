@@ -4,7 +4,7 @@ heading: Cloudflare Blog redesign concept
 client: Personal Project
 type: UI/UX Design, Concept
 period: 2026
-description: A self-initiated redesign concept for Cloudflare’s technical blog, focused on readability, content discovery, and editorial hierarchy.
+description: Redesign concept for Cloudflare’s technical blog.
 image:
 tags: mockup, UI/UX, concept, website
 order: 3

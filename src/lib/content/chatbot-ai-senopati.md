@@ -4,7 +4,7 @@ heading: AI chatbot for university websites
 client: Universitas Airlangga (UNAIR) & Institut Teknologi Sepuluh Nopember (ITS)
 type: UI/UX Design, Product Design
 period: 2024–2025
-description: An AI chatbot built for two Indonesian universities to handle academic queries using a RAG architecture and bilingual interface.
+description: AI chatbot for academic queries at two Indonesian universities.
 image:
 tags: UI/UX, AI, product, dev
 order: 4

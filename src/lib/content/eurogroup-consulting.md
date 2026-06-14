@@ -4,7 +4,7 @@ heading: Eurogroup Consulting website redesign
 client: Eurogroup Consulting
 type: Web Design
 period: 2024
-description: A public-facing website redesign for an international management consulting firm across Europe and the Middle East.
+description: Website redesign for a global management consultancy.
 image:
 tags: website, UI/UX, mockup
 order: 5

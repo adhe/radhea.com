@@ -51,15 +51,14 @@
         <a href="/{post.slug}">{post.title ?? post.slug}</a>
       </div>
       {#if post.description}
-        <div class="text-[12px] desktop:text-[13px] text-[#444444]/80 leading-relaxed mt-1">
+        <div
+          class="text-[12px] desktop:text-[13px] text-[#444444]/80 leading-relaxed mt-1"
+        >
           {post.description}
         </div>
       {/if}
-      <div class="text-[12px] desktop:text-[13px] text-[#444444]/90">
-        {post.type ?? ""}
-      </div>
       <div class="text-[11px] desktop:text-[12px] text-[#929292]">
-        {post.tags ?? ""}
+        {post.type ?? ""}
       </div>
     </div>
   {/each}

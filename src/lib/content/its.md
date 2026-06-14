@@ -4,7 +4,7 @@ heading: ITS Surabaya website redesign
 client: Institut Teknologi Sepuluh Nopember (ITS Surabaya)
 type: UI/UX Design, Web Design, Development
 period: 2025–2026
-description: Full redesign and development of ITS Surabaya’s main website, built as a scalable WordPress multisite system for 150+ department subsites.
+description: University website redesign and WordPress multisite system.
 image:
 tags: website, UI/UX, dev, design system
 order: 2

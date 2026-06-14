@@ -4,7 +4,7 @@ heading: Brand and website for Lucidity Insights
 client: Lucidity Insights
 type: branding, website, UI/UX
 period: 2024
-description: End-to-end brand and website design for a UAE-based platform serving founders and investors across the Middle East and Africa.
+description: Brand and website for a MEA startup intelligence platform.
 image:
 tags: branding, website, UI/UX
 order: 1
