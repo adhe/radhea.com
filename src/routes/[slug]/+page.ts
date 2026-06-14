@@ -6,8 +6,14 @@ interface MarkdownModule {
 	default: Component;
 	metadata?: {
 		title?: string;
+		heading?: string;
+		client?: string;
+		type?: string;
+		period?: string;
 		description?: string;
-		[key: string]: unknown;
+		image?: string;
+		tags?: string;
+		order?: number;
 	};
 }
 

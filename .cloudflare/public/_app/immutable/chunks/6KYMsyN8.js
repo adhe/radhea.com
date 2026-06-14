@@ -1,1 +1,0 @@
-import{D as e,H as t,O as n,V as r,g as i,h as a,l as o,m as s}from"./DnSMGx5S.js";import"./D1hYfEew.js";var c=i(`<h1 class="font-medium text-[28px] tablet:text-[36px] leading-tight tracking-tighter mb-4"><!></h1>`);function l(n,i){var a=c();o(e(a),()=>i.children??t),r(a),s(n,a)}function u(e,t){var r=a();o(n(r),()=>t.children),s(e,r)}export{l as n,u as t};

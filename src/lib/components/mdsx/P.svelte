@@ -3,8 +3,8 @@
   let { children }: { children: Snippet } = $props();
 </script>
 
-<h1
-  class="font-medium text-[28px] tablet:text-[36px] leading-tight tracking-tighter text-balance mb-4"
+<p
+  class="tablet:max-w-160 text-[13px] tablet:text-[14px] leading-relaxed tablet:leading-normal text-[#444444] mb-4"
 >
   {@render children?.()}
-</h1>
+</p>

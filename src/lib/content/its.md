@@ -1,9 +1,10 @@
 ---
 title: Institut Teknologi Sepuluh Nopember
-heading: University website that modern visually
-client: Institut Teknologi Sepuluh Nopember (ITS Surabaya)  
-type: UI/UX Design, Web Design, Development  
-period: 2025-2026
+heading: ITS Surabaya website redesign
+client: Institut Teknologi Sepuluh Nopember (ITS Surabaya)
+type: UI/UX Design, Web Design, Development
+period: 2025–2026
+description: Full redesign and development of ITS Surabaya’s main website, built as a scalable WordPress multisite system for 150+ department subsites.
 image:
 tags: website, UI/UX, dev, design system
 order: 2
@@ -13,24 +14,13 @@ order: 2
 
 `/images/its-featured.jpg`
 
-Institut Teknologi Sepuluh Nopember is one of Indonesia's leading technical universities, ranked among the top institutions nationally. The project was a full redesign of the university's main website — replacing a fragmented, aging system with a modern, scalable digital presence befitting an institution of ITS's standing.
+Institut Teknologi Sepuluh Nopember is one of Indonesia’s leading technical universities. The project was a full redesign and rebuild of the main website, replacing a fragmented system with a scalable, modern digital presence.
 
-The scope covered information architecture, visual design, component system, and frontend development — deployed across a WordPress multisite network serving over 150 department subsites. The core challenge was creating a design language flexible enough to accommodate diverse faculty content, while maintaining a unified and credible institutional identity.
+The scope covered information architecture, visual design, a component system, and frontend development across a WordPress multisite network serving over 150 department subsites. The design language had to be flexible enough for diverse faculty content while keeping a unified institutional identity.
 
-Design decisions were guided by the needs of academic audiences: clear content hierarchy, fast access to key information, and a visual tone that balances institutional authority with modernity. The component-based system allows department administrators to manage their own subsites without breaking the overall design consistency.
+The redesigned site is now live as ITS Surabaya’s main landing page. It gives the university a solid foundation for faculty standardization, academic dashboards, and ongoing multisite management.
 
----
-
-## Additional Image
 `/images/its-detail.jpg`
 
----
-
-## Result
-
-The redesigned website is now live as ITS Surabaya's main landing page, serving as the digital face of the institution. The project established a scalable foundation for ongoing work including faculty standardization, academic publication dashboards, and multisite content management — making it one of the most comprehensive institutional web projects delivered under Roundrive Digital.
-
----
-
-**Client:** Institut Teknologi Sepuluh Nopember, Surabaya  
-**Period:** 2024–2025
+**Client:** {client}, Surabaya  
+**Period:** {period}

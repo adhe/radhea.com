@@ -1,9 +1,10 @@
 ---
-title: Cloudflare Blog 
-heading: Cloudlfare Blog should be fast and good
-client: Personal Project  
-type: UI/UX Design, Concept  
+title: Cloudflare Blog
+heading: Cloudflare Blog redesign concept
+client: Personal Project
+type: UI/UX Design, Concept
 period: 2026
+description: A self-initiated redesign concept for Cloudflare’s technical blog, focused on readability, content discovery, and editorial hierarchy.
 image:
 tags: mockup, UI/UX, concept, website
 order: 3
@@ -13,18 +14,13 @@ order: 3
 
 `/images/cloudflare-featured.jpg`
 
-This is a self-initiated redesign concept for Cloudflare's blog — one of the most widely read technical publications in the web infrastructure space. The project was driven by a personal interest in Cloudflare's product ecosystem and a desire to explore how a high-volume technical blog could be redesigned for better readability, content discovery, and visual consistency.
+This is a personal redesign concept for Cloudflare’s blog, one of the most widely read technical publications in web infrastructure. The idea came from wanting to explore how a high-volume technical blog could feel clearer, better organized, and easier to read without losing the density technical readers expect.
 
-The original blog serves a broad audience — from developers and security engineers to business decision-makers — yet the existing design doesn't always reflect the clarity and precision that Cloudflare's products represent. The concept focuses on improving typographic hierarchy, content categorization, and the overall reading experience without losing the functional density that technical readers expect.
+The concept refreshes the editorial layout with stronger typography, clearer content categorization, and better visual separation between product updates, deep-dives, and company news. It also includes a command popup for searching content quickly, similar to the patterns used in modern developer tools.
 
-The redesign explores a cleaner editorial layout with stronger visual differentiation between content types — product announcements, technical deep-dives, and company news — while maintaining a cohesive brand language that aligns with Cloudflare's established identity.
+The design covers the homepage, article listing, and individual article view. It aligns with Cloudflare’s newer landing page direction and serves as a benchmark for how I think technical content platforms should look and work.
 
 `/images/cloudflare-detail.jpg`
-
-A fully designed concept covering the blog homepage, article listing page, and individual article view. This project reflects a personal standard for how technical content platforms should look and function — and serves as a demonstration of design thinking applied outside of client constraints.
-
-Additional: the redesign was happened following the new landing page design of the cloudflare.
-Need more: command popup for searching the content
 
 **Client:** {client}  
 **Period:** {period}

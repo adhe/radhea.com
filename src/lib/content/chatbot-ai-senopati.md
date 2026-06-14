@@ -1,9 +1,10 @@
 ---
 title: Chatbot AI
-heading: Automate website customer service with Chatbot AI
-client: Universitas Airlangga (UNAIR) & Institut Teknologi Sepuluh Nopember (ITS)  
-type: UI/UX Design, Product Design  
-period: 2024–2025  
+heading: AI chatbot for university websites
+client: Universitas Airlangga (UNAIR) & Institut Teknologi Sepuluh Nopember (ITS)
+type: UI/UX Design, Product Design
+period: 2024–2025
+description: An AI chatbot built for two Indonesian universities to handle academic queries using a RAG architecture and bilingual interface.
 image:
 tags: UI/UX, AI, product, dev
 order: 4
@@ -13,15 +14,13 @@ order: 4
 
 `/images/chatbot-ai-featured.jpg`
 
-Senopati is an AI-powered chatbot deployed across two of Indonesia's most prominent universities — Universitas Airlangga (UNAIR) and Institut Teknologi Sepuluh Nopember (ITS). The product was built to handle academic information queries using a Retrieval-Augmented Generation (RAG) architecture, enabling contextually accurate responses grounded in each institution's own knowledge base.
+Senopati is an AI chatbot deployed at Universitas Airlangga and Institut Teknologi Sepuluh Nopember, built to handle academic questions using a Retrieval-Augmented Generation architecture. It pulls answers from each university’s own knowledge base, so responses stay accurate and specific to the institution.
 
-The design challenge was building a conversational interface that felt trustworthy and approachable for an academic audience — students, faculty, and administrative staff — while accommodating the technical complexity of a hybrid search system beneath the surface. The UI needed to be simple enough for first-time users, yet informative enough to surface relevant context and source references alongside answers.
+The interface was designed for students, faculty, and staff who need quick answers without wrestling with complex tech. We kept the chat simple and approachable, while still showing useful context and source references. Admins get a separate dashboard to manage knowledge sources, monitor indexing, and configure settings per institution.
 
-Beyond the chat interface, the project included a web crawling dashboard for administrators to manage knowledge sources, monitor indexing status, and configure the chatbot's behavior per institution. The design system was built to accommodate both Indonesian and English content, reflecting the bilingual nature of the universities' digital environments.
+Senopati is live at UNAIR, embedded across the university’s WordPress sites through a custom plugin. It handles real queries every day and cuts down repetitive requests for administrative staff.
 
 `/images/chatbot-ai-detail.jpg`
-
-Senopati is now live at UNAIR, embedded via a WordPress plugin across the university's web properties. The system handles real user queries daily, reducing the load on administrative staff for repetitive information requests. The project stands as one of the most technically complex products delivered — combining AI infrastructure, UX design, and institutional knowledge management into a single deployable product.
 
 **Client:** {client}  
 **Period:** {period}

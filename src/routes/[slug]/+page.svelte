@@ -13,6 +13,6 @@
   {/if}
 </svelte:head>
 
-<div class="min-h-screen tablet:pt-32">
+<div class="min-h-screen pt-20 tablet:pt-32">
   <data.component />
 </div>

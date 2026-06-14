@@ -1,9 +1,10 @@
 ---
-title: Eurogroup Consulting 
-heading: Improve the business into good-eye website
-client: Eurogroup Consulting  
-type: Web Design  
+title: Eurogroup Consulting
+heading: Eurogroup Consulting website redesign
+client: Eurogroup Consulting
+type: Web Design
 period: 2024
+description: A public-facing website redesign for an international management consulting firm across Europe and the Middle East.
 image:
 tags: website, UI/UX, mockup
 order: 5
@@ -13,17 +14,13 @@ order: 5
 
 `/images/eurogroup-featured.jpg`
 
-Eurogroup Consulting is an international management consulting firm with a presence across Europe and the Middle East. The project focused on redesigning the public-facing website — elevating the digital presence to match the firm's positioning as a premium, strategy-led consultancy.
+Eurogroup Consulting is an international management consulting firm with offices across Europe and the Middle East. The project was a full redesign of the public website, aimed at giving the firm a digital presence that matches its positioning as a premium, strategy-led consultancy.
 
-The design challenge was translating the authority and expertise of a global consulting brand into a clean, modern web experience. The visual direction leans into editorial clarity — structured layouts, refined typography, and a restrained color palette that signals professionalism without feeling dated. The goal was a site that earns trust within seconds.
+The design direction leans on editorial clarity: structured layouts, refined typography, and a restrained palette that feels professional without being stiff. Navigation and content hierarchy were built to serve multiple audiences at once — potential clients, future talent, and partners — without overwhelming any of them.
 
-Navigation and content hierarchy were carefully structured to serve multiple audiences simultaneously: potential clients evaluating the firm, talent considering careers, and partners seeking collaboration. Each page was designed to communicate depth without overwhelming the visitor.
+The site presents Eurogroup as a serious, high-caliber firm with a modern digital identity. The project has since evolved into a fresh design iteration that builds on this initial foundation.
 
 `/images/eurogroup-detail.jpg`
 
-The redesigned website presents Eurogroup Consulting with a digital presence that reflects its standing as a serious, high-caliber firm. The project demonstrated the ability to work within the visual and tonal conventions of the professional services industry while delivering a result that feels distinctly modern.
-
-Additional: The website is now getting fresh design, improving from the initial redesign.
-
-**Client:** Eurogroup Consulting  
-**Period:** 2024
+**Client:** {client}  
+**Period:** {period}

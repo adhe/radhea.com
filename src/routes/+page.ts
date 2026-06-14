@@ -2,6 +2,10 @@ import type { PageLoad } from "./$types";
 
 interface PostMeta {
   title?: string;
+  heading?: string;
+  client?: string;
+  type?: string;
+  period?: string;
   description?: string;
   image?: string;
   tags?: string;
