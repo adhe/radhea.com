@@ -3,7 +3,7 @@ title: Lucidity Insights
 heading: Brand and website for Lucidity Insights
 client: Lucidity Insights
 type: branding, website, UI/UX
-period: 2024
+period: 2022
 description: Brand and website for a MEA startup intelligence platform.
 image: /images/lucidity-insights-featured.jpg
 tags: branding, website, UI/UX
