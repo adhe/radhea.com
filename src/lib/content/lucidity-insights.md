@@ -5,14 +5,14 @@ client: Lucidity Insights
 type: branding, website, UI/UX
 period: 2022
 description: Brand and website for a MEA startup intelligence platform.
-image: /images/lucidity-insights-featured.jpg
+image: /images/lucidity-featured.jpg
 tags: branding, website, UI/UX
 order: 1
 ---
 
 # {heading}
 
-![Lucidity Insights featured image](/images/lucidity-insights-featured.jpg)
+![Lucidity Insights featured image](/images/lucidity-featured.jpg)
 
 Lucidity Insights is a UAE-based platform that brings together startup intelligence, investor data, and founder tools for the Middle East and Africa startup economy. The project covered the full brand identity and website design.
 

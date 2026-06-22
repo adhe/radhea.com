@@ -8,7 +8,7 @@
       <div class="leading-none text-[12px] tablet:text-[13px] font-semibold">
         Radhea W. Putra
       </div>
-      <div class="text-[11px] tablet:text-[12px]">
+      <div class="text-[11px] text-gray-500 tablet:text-[12px]">
         Product Designer & Developer
       </div>
     </a>
