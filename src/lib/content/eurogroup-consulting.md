@@ -26,7 +26,7 @@ The design direction leans on editorial clarity: structured layouts, refined typ
 
 ![Eurogroup Consulting image post 4](/images/eurogroup-post-4.jpg)
 
-The site presents Eurogroup as a serious, high-caliber firm with a modern digital identity. The project has since evolved into a fresh design iteration that builds on this initial foundation.
+The site presents Eurogroup Consulting as a serious, high-caliber firm with a modern digital identity. The project has since evolved into a fresh design iteration that builds on this initial foundation.
 
 **Client:** {client}  
 **Period:** {period}

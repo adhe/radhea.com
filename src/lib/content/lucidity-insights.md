@@ -26,9 +26,7 @@ The challenge was to look credible and modern in a competitive media space, whil
 
 ![Lucidity Insights Post 3](/images/lucidity-post-3.jpg)
 
-The platform is live at lucidityinsights.com and has grown to over 10,000 visitors, generating revenue. The design system now scales across reports, podcasts, a startup database, and an investor directory.
-
-`/images/lucidity-detail.jpg`
+The platform is live at [lucidityinsights.com](https://lucidityinsights.com) and has grown to over 10,000 visitors, generating revenue. The design system now scales across reports, podcasts, a startup database, and an investor directory.
 
 **Client:** {client}, UAE  
 **Period:** {period}
